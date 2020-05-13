@@ -130,3 +130,12 @@ body {
         }
       }
     }
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 20;
+      width: 100%;
+      background-color: black;
+      color:whitesmoke;
+      text-align: center;
+   }
