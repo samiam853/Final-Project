@@ -1,2 +1,3 @@
-Final Project
+Final Project:
 
+I tried to create a environment that conveys what I think neuroplasticity might look like. Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life. It allows the neurons (nerve cells) in the brain to compensate for injury and disease and to adjust their activities in response to new situations or to changes in their environment. I really love that concept because I think thats so important for becoming a better student and person in life always adapting and refining your skills. 
